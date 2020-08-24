@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LearnReactDaily/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LearnReactDaily/static/js/main.a5ff5a2c.chunk.js",
+    "main.js.map": "/LearnReactDaily/static/js/main.a5ff5a2c.chunk.js.map",
+    "runtime-main.js": "/LearnReactDaily/static/js/runtime-main.1eb73e10.js",
+    "runtime-main.js.map": "/LearnReactDaily/static/js/runtime-main.1eb73e10.js.map",
+    "static/js/2.6c7b9374.chunk.js": "/LearnReactDaily/static/js/2.6c7b9374.chunk.js",
+    "static/js/2.6c7b9374.chunk.js.map": "/LearnReactDaily/static/js/2.6c7b9374.chunk.js.map",
+    "index.html": "/LearnReactDaily/index.html",
+    "precache-manifest.41a8e4d97d9e77efdb2eea91fb04078a.js": "/LearnReactDaily/precache-manifest.41a8e4d97d9e77efdb2eea91fb04078a.js",
+    "service-worker.js": "/LearnReactDaily/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LearnReactDaily/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6c7b9374.chunk.js.LICENSE.txt": "/LearnReactDaily/static/js/2.6c7b9374.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LearnReactDaily/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eb73e10.js",
+    "static/js/2.6c7b9374.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a5ff5a2c.chunk.js"
+  ]
+}
