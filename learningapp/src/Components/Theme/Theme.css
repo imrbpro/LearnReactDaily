@@ -1,4 +1,10 @@
 .navbar{
     Background-color:#f26410 !important;
+}
+.navbar-items{
     color:white !important;
+}
+
+.jumbotron{
+    background-color: transparent !important;
 }
